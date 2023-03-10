@@ -1,24 +1,45 @@
-  .Email{
-    padding-top: 8px;
-    padding-bottom: 8px;
-    padding-left: 10px;
-    padding-right:15px;
-    margin-bottom: 15px;
-    border-radius: 10px;
-    border-style: solid;
-    border-color: rgb(177, 177, 177); 
-   
-   }
-   .Password{
-    padding-top: 8px;
-    padding-bottom: 8px;
-    padding-left: 10px;
-    padding-right:15px;
-    margin-bottom: 15px;
-    border-radius: 10px;
-    border-style: solid;
-    border-color: rgb(177, 177, 177); 
-   }
-   .Welcome{
-    
-   }
+.Email{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 10px;
+  padding-right:15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(177, 177, 177);
+  
+ }
+ .Password{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 10px;
+  padding-right:15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(177, 177, 177);
+ }
+ .Welcome{
+  margin-bottom: 10px;
+  margin:auto;
+  text-align: center;
+ }
+ .remember{
+  color:rgb(176, 176, 176);
+  margin-bottom: 15px;
+  
+ }
+ .button1{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 78px;
+  padding-right:78px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border-style: none;
+  background-color: rgb(0, 42, 210);
+  color: white;
+ }
+ .space{
+ 
+ }
